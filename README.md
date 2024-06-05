@@ -1,3 +1,5 @@
+**Note: This is a copy of the repo found [here](https://github.com/TaylorMater/UTA-BootCamp-Final-Project)**
+
 # Predicting Tennis Match Winners 2009-2023 
 ## Description
 The goal of this project was to use a few of the machine learning algorithms we have been introduced to in the course on a real world data set, in this case, tennis statistics, to try to formulate conclusions about said data. After cleaning and processing the data scrupulously, these investigations led us to identify some of the most important features for determining the winner of a match. We also were able to set up a neural network that performed noticeably better than chance at predicting the winner of a match without any match statistics whatsoever, although that could be subject to overfitting. Presentation slides [here](https://docs.google.com/presentation/d/1Qq7w7HWuwbpAAd2Q-pAjcytenulVI3AKPGELWZcJQKs/edit#slide=id.p)
